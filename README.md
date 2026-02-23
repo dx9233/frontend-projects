@@ -24,8 +24,6 @@ monorepo/
     beauty-salon/
     gamestore/
     luxurycar-react/
-    mainportfolio/
-    nextjs-portfolio/
   package.json
   pnpm-workspace.yaml
   turbo.json
