@@ -115,3 +115,4 @@ php -S localhost:8000
 |      6      |     **beautysalon**     |       Vue        |      Beauty Salon Vue App      |      |       [Link](/web/beautysalon/)        |
 |      7      |      **gamestore**      | Next, React, TS  |      Next Game Store App       |      |        [Link](/web/gamestore/)         |
 |      8      |     **luxury-car**      |      React       | React landing for detaling car |      |        [Link](/web/luxury-car/)        |
+|      9      |   **next-portfolio**    | React, Next, TS  |         Next portfolio         |      |      [Link](/web/next-portfolio/)      |
