@@ -19,8 +19,10 @@ monorepo/
     ui/
     utils/
   web/
-    beauty-salon/
+    astroblog/
+    astroblogportfolio/
     gamestore/
+    luxury-car/
   package.json
   pnpm-workspace.yaml
   turbo.json
@@ -78,16 +80,16 @@ php -S localhost:8000
 ## Tech Stack
 
 <p align="left">
-<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="40" height="40" alt="Astro" /> -->
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="40" height="40" alt="Astro" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue" />
  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxt/nuxt-original.svg" width="40" height="40" alt="Nuxt" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
+  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
- <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="Sqlite" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="Sqlite" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" alt="Vite" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40" alt="Composer" />
@@ -95,12 +97,12 @@ php -S localhost:8000
 
 ## Projects
 
-|             |     Projects     |       Stack       |     Discription      | Demo |            Folder             |
-| :---------: | :--------------: | :---------------: | :------------------: | :--: | :---------------------------: |
-| **Backend** |                  |                   |                      |      |                               |
-|      1      | **laravel-app**  | PHP, SQL, Laravel | Backend Laravel app  |      | [Link](/backend/laravel-app/) |
-| **Mobile**  |                  |                   |                      |      |                               |
-|      2      | **carrent-app**  | React Native, TS  |     Car Rent App     |      | [Link](/mobile/carrent-app/)  |
-|   **Web**   |                  |                   |                      |      |                               |
-|      3      | **beauty-salon** |        Vue        | Vue Beauty Salon App |      |  [Link](/web/beauty-salon/)   |
-|      4      |  **gamestore**   |  Next, React, TS  | Next Game Store App  |      |    [Link](/web/gamestore/)    |
+|            |        Projects        |      Stack       |          Discription           | Demo |              Folder              |
+| :--------: | :--------------------: | :--------------: | :----------------------------: | :--: | :------------------------------: |
+| **Mobile** |                        |                  |                                |      |                                  |
+|     1      |    **carrent-app**     | React Native, TS |          Car Rent App          |      |   [Link](/mobile/carrent-app/)   |
+|  **Web**   |                        |                  |                                |      |                                  |
+|     2      |     **astroblog**      |      Astro       |           Astro Blog           |      |     [Link](/web/astroblog/)      |
+|     3      | **astroblogportfolio** |      Astro       |      Astro Blog Portfolio      |      | [Link](/web/astroblogportfolio/) |
+|     4      |     **gamestore**      | Next, React, TS  |      Next Game Store App       |      |     [Link](/web/gamestore/)      |
+|     5      |     **luxury-car**     |      React       | React landing for detaling car |      |     [Link](/web/luxury-car/)     |

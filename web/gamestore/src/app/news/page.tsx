@@ -2,10 +2,10 @@ import NewsSection from "@/components/NewsSection";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Alex Reyes | Home",
+  title: "Game Store | News",
 };
 
-export default function HeroPage() {
+export default function NewsPage() {
   return (
     <main>
       <NewsSection />
