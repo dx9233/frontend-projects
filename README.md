@@ -25,6 +25,7 @@ monorepo/
     gamestore/
     luxury-car/
     multilang-portfolio/
+    multilink-astro/
     next-portfolio/
   package.json
   pnpm-workspace.yaml
@@ -83,14 +84,10 @@ php -S localhost:8000
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="Vue" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="40" height="40" alt="Svelte" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40" height="40" alt="Laravel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="Sqlite" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" alt="Vite" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="40" height="40" alt="Composer" /> 
 </p>
 
 ## Projects
@@ -107,4 +104,5 @@ php -S localhost:8000
 |     6      |      **gamestore**      | Next, React, TS  |      Next Game Store App       | [Demo](https://endearing-tarsier-8ccafc.netlify.app/) |      [Link](/web/gamestore/)      |
 |     7      |     **luxury-car**      |      React       | React landing for detaling car | [Demo](https://tangerine-paletas-eaa001.netlify.app/) |     [Link](/web/luxury-car/)      |
 |     8      | **multilang-portfolio** | Astro, React, TS |   Astro multi-lang portfolio   |   [Demo](https://golden-cactus-9f9351.netlify.app/)   | [Link](/web/multilang-portfolio/) |
-|     9      |   **next-portfolio**    | React, Next, TS  |         Next portfolio         |                       [Demo]()                        |   [Link](/web/next-portfolio/)    |
+|     9      |   **multilink-astro**   |      Astro       |         Linktree clone         |                       [Demo]()                        |   [Link](/web/multilink-astro/)   |
+|     10     |   **next-portfolio**    | React, Next, TS  |         Next portfolio         |                       [Demo]()                        |   [Link](/web/next-portfolio/)    |
