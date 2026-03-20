@@ -11,8 +11,6 @@
 
 ```
 monorepo/
-  mobile/
-    carrent-app/
   packages/
     ui/
     utils/
@@ -92,17 +90,14 @@ php -S localhost:8000
 
 ## Projects
 
-|            |        Projects         |      Stack       |          Discription           |                         Demo                          |              Folder               |
-| :--------: | :---------------------: | :--------------: | :----------------------------: | :---------------------------------------------------: | :-------------------------------: |
-| **Mobile** |                         |                  |                                |                                                       |                                   |
-|     1      |     **carrent-app**     | React Native, TS |          Car Rent App          |                                                       |   [Link](/mobile/carrent-app/)    |
-|  **Web**   |                         |                  |                                |                                                       |                                   |
-|     2      |      **astroblog**      |      Astro       |           Astro Blog           |   [Demo](https://celadon-chaja-47fe91.netlify.app/)   |      [Link](/web/astroblog/)      |
-|     3      | **astroblogportfolio**  |      Astro       |      Astro Blog Portfolio      |  [Demo](https://frabjous-mousse-414e9c.netlify.app/)  | [Link](/web/astroblogportfolio/)  |
-|     4      |     **beautysalon**     |       Vue        |      Beauty Salon Vue App      |  [Demo](https://jolly-bublanina-fe63c0.netlify.app/)  |     [Link](/web/beautysalon/)     |
-|     5      |     **gameportal**      |    React, TS     |     React Game Portal App      | [Demo](https://ephemeral-daifuku-c64f71.netlify.app/) |     [Link](/web/gameportal/)      |
-|     6      |      **gamestore**      | Next, React, TS  |      Next Game Store App       | [Demo](https://endearing-tarsier-8ccafc.netlify.app/) |      [Link](/web/gamestore/)      |
-|     7      |     **luxury-car**      |      React       | React landing for detaling car | [Demo](https://tangerine-paletas-eaa001.netlify.app/) |     [Link](/web/luxury-car/)      |
-|     8      | **multilang-portfolio** | Astro, React, TS |   Astro multi-lang portfolio   |   [Demo](https://golden-cactus-9f9351.netlify.app/)   | [Link](/web/multilang-portfolio/) |
-|     9      |   **multilink-astro**   |      Astro       |         Linktree clone         |                       [Demo]()                        |   [Link](/web/multilink-astro/)   |
-|     10     |   **next-portfolio**    | React, Next, TS  |         Next portfolio         |                       [Demo]()                        |   [Link](/web/next-portfolio/)    |
+|     |        Projects         |      Stack       |          Discription           |                         Demo                          |              Folder               |
+| :-: | :---------------------: | :--------------: | :----------------------------: | :---------------------------------------------------: | :-------------------------------: |
+|  1  |      **astroblog**      |      Astro       |           Astro Blog           |   [Demo](https://celadon-chaja-47fe91.netlify.app/)   |      [Link](/web/astroblog/)      |
+|  2  | **astroblogportfolio**  |      Astro       |      Astro Blog Portfolio      |  [Demo](https://frabjous-mousse-414e9c.netlify.app/)  | [Link](/web/astroblogportfolio/)  |
+|  3  |     **beautysalon**     |       Vue        |      Beauty Salon Vue App      |  [Demo](https://jolly-bublanina-fe63c0.netlify.app/)  |     [Link](/web/beautysalon/)     |
+|  4  |     **gameportal**      |    React, TS     |     React Game Portal App      | [Demo](https://ephemeral-daifuku-c64f71.netlify.app/) |     [Link](/web/gameportal/)      |
+|  5  |      **gamestore**      | Next, React, TS  |      Next Game Store App       | [Demo](https://endearing-tarsier-8ccafc.netlify.app/) |      [Link](/web/gamestore/)      |
+|  6  |     **luxury-car**      |      React       | React landing for detaling car | [Demo](https://tangerine-paletas-eaa001.netlify.app/) |     [Link](/web/luxury-car/)      |
+|  7  | **multilang-portfolio** | Astro, React, TS |   Astro multi-lang portfolio   |   [Demo](https://golden-cactus-9f9351.netlify.app/)   | [Link](/web/multilang-portfolio/) |
+|  8  |   **multilink-astro**   |      Astro       |         Linktree clone         |                       [Demo]()                        |   [Link](/web/multilink-astro/)   |
+|  9  |   **next-portfolio**    | React, Next, TS  |         Next portfolio         |                       [Demo]()                        |   [Link](/web/next-portfolio/)    |
