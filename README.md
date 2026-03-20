@@ -21,9 +21,6 @@ monorepo/
     beautysalon/
     gameportal/
     luxury-car/
-    multilang-portfolio/
-    multilink-astro/
-    next-portfolio/
   package.json
   pnpm-workspace.yaml
   turbo.json
@@ -58,18 +55,6 @@ Check the list of available projects:
 
 ```bash
 pnpm list -r
-```
-
-### Dev server Laravel
-
-```bash
-php artisan serve
-```
-
-### Dev server PHP
-
-```bash
-php -S localhost:8000
 ```
 
 ---
