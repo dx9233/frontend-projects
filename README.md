@@ -102,7 +102,7 @@ pnpm list -r
 |  5  |     **gamestore**      | NextJS, TS |       Game Store NextJS        |                       [Demo]()                        |     [Link](/web/gamestore/)      |
 |  6  |     **luxury-car**     |   React    | React landing for detaling car | [Demo](https://tangerine-paletas-eaa001.netlify.app/) |     [Link](/web/luxury-car/)     |
 
-## Screenshot
+## Screenshots
 
 **NextJS Portfolio**
 
@@ -115,3 +115,15 @@ pnpm list -r
 **Game Store | NextJS**
 
 ![Game Store](/web/gamestore/screenshot.jpg)
+
+**Astro Blog**
+
+![Astro Blog](/screenshots/astroblog.jpg)
+
+**Astro Blog Portfolio**
+
+![Astro Blog Portfolio](/screenshots/astroblogportfolio.jpg)
+
+**Luxury Car | React Landing**
+
+![Luxury Car](/screenshots/luxurycar.jpg)
