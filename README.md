@@ -15,6 +15,7 @@ monorepo/
     ui/
     utils/
   personal/
+    codebase/
     mainportfolio/
     multilink-astro/
     nextjs-portfolio/
@@ -24,6 +25,7 @@ monorepo/
     astroblogportfolio/
     beautysalon/
     gameportal/
+    gamestore/
     luxury-car/
   package.json
   pnpm-workspace.yaml
@@ -82,17 +84,19 @@ pnpm list -r
 
 |     |       Projects       |   Stack   |     Discription      |   Demo   |               Folder                |
 | :-: | :------------------: | :-------: | :------------------: | :------: | :---------------------------------: |
-|  1  |  **mainportfolio**   |   Astro   | Astro Blog Portfolio | [Demo]() |  [Link](/personal/mainportfolio/)   |
-|  2  | **multilink-astro**  |   Astro   |   Astro Multilink    | [Demo]() | [Link](/personal/multilink-astro/)  |
-|  3  | **nextjs-portfolio** |  NextJS   |    Next Portfolio    | [Demo]() | [Link](/personal/nextjs-portfolio/) |
-|  4  | **react-portfolio**  | React, TS |   React Portfolio    | [Demo]() | [Link](/personal/react-portfolio/)  |
+|  1  |     **codebase**     | Astro, TS | Astro blog Portfolio | [Demo]() |     [Link](/personal/codebase/)     |
+|  2  |  **mainportfolio**   |   Astro   | Astro Blog Portfolio | [Demo]() |  [Link](/personal/mainportfolio/)   |
+|  3  | **multilink-astro**  |   Astro   |   Astro Multilink    | [Demo]() | [Link](/personal/multilink-astro/)  |
+|  4  | **nextjs-portfolio** |  NextJS   |    Next Portfolio    | [Demo]() | [Link](/personal/nextjs-portfolio/) |
+|  5  | **react-portfolio**  | React, TS |   React Portfolio    | [Demo]() | [Link](/personal/react-portfolio/)  |
 
 ### Web
 
-|     |        Projects        |   Stack   |          Discription           |                         Demo                          |              Folder              |
-| :-: | :--------------------: | :-------: | :----------------------------: | :---------------------------------------------------: | :------------------------------: |
-|  1  |     **astroblog**      |   Astro   |           Astro Blog           |   [Demo](https://celadon-chaja-47fe91.netlify.app/)   |     [Link](/web/astroblog/)      |
-|  2  | **astroblogportfolio** |   Astro   |      Astro Blog Portfolio      |  [Demo](https://frabjous-mousse-414e9c.netlify.app/)  | [Link](/web/astroblogportfolio/) |
-|  3  |    **beautysalon**     |    Vue    |      Beauty Salon Vue App      |  [Demo](https://jolly-bublanina-fe63c0.netlify.app/)  |    [Link](/web/beautysalon/)     |
-|  4  |     **gameportal**     | React, TS |     React Game Portal App      | [Demo](https://ephemeral-daifuku-c64f71.netlify.app/) |     [Link](/web/gameportal/)     |
-|  5  |     **luxury-car**     |   React   | React landing for detaling car | [Demo](https://tangerine-paletas-eaa001.netlify.app/) |     [Link](/web/luxury-car/)     |
+|     |        Projects        |   Stack    |          Discription           |                         Demo                          |              Folder              |
+| :-: | :--------------------: | :--------: | :----------------------------: | :---------------------------------------------------: | :------------------------------: |
+|  1  |     **astroblog**      |   Astro    |           Astro Blog           |   [Demo](https://celadon-chaja-47fe91.netlify.app/)   |     [Link](/web/astroblog/)      |
+|  2  | **astroblogportfolio** |   Astro    |      Astro Blog Portfolio      |  [Demo](https://frabjous-mousse-414e9c.netlify.app/)  | [Link](/web/astroblogportfolio/) |
+|  3  |    **beautysalon**     |    Vue     |      Beauty Salon Vue App      |  [Demo](https://jolly-bublanina-fe63c0.netlify.app/)  |    [Link](/web/beautysalon/)     |
+|  4  |     **gameportal**     | React, TS  |     React Game Portal App      | [Demo](https://ephemeral-daifuku-c64f71.netlify.app/) |     [Link](/web/gameportal/)     |
+|  5  |     **gamestore**      | NextJS, TS |       Game Store NextJS        |                       [Demo]()                        |     [Link](/web/gamestore/)      |
+|  6  |     **luxury-car**     |   React    | React landing for detaling car | [Demo](https://tangerine-paletas-eaa001.netlify.app/) |     [Link](/web/luxury-car/)     |

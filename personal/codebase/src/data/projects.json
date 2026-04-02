@@ -1,0 +1,10 @@
+[
+  {
+    "title": "Blitz State",
+    "description": "Лендинг агенства недвижимости",
+    "category": "wordpress",
+    "img": "/assets/img/blitzestate.jpg",
+    "tags": ["HTML", "CSS", "JS", "WORDPRESS"],
+    "demo": "/projects/beautysalon/"
+  }
+]
